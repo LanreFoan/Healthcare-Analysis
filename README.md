@@ -13,24 +13,6 @@ The goal is to surface meaningful trends and patterns that could inform healthca
 
 ---
 
-## 📂 Repository Structure
-
-```
-healthcare-eda/
-│
-├── healthcare_dataset-analysis.ipynb   # Main EDA notebook
-├── healthcare_dataset.csv              # Raw dataset (from Kaggle)
-├── README.md                           # Project documentation
-└── assets/                             # Saved visualizations
-    ├── AgeDis.png
-    ├── BldTypFreq.png
-    ├── AdmissionTrend.png
-    ├── TimeseriesTrend.png
-    └── BillingVariation.png
-```
-
----
-
 ## 📊 Dataset Description
 
 | Feature | Description |
@@ -110,9 +92,8 @@ jupyter notebook healthcare_dataset-analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**  
-Data Science Intern Candidate  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/YOUR_USERNAME)
+**Olanrewaju Emmanuel**  
+[LinkedIn](www.linkedin.com/in/olanrewaju-emmanuel-629638232) · [GitHub](https://github.com/LanreFoan)
 
 ---
 
